@@ -11,6 +11,8 @@ Your mission, agent, should you choose to accept it, is to design and deploy a M
 
 By analyzing attributes such as transaction type, amount, and source/destination account balances, you will craft an efficient classification model for real-time fraud detection. Success in this mission will empower financial institutions and digital marketplaces to protect their customers and maintain trust in online transactions.
 
+**Link to Dataset:** https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection?resource=download
+
 ## 🎯 Mission Objectives
 1. **Data Ingestion & Exploration**
     - Ingest and explore the dataset featuring transaction time steps, amounts, account balances, and fraud indicators.
