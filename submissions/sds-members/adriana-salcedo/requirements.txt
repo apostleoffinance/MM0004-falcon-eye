@@ -1,0 +1,19 @@
+#Analysis & Data Processing
+
+pandas
+numpy
+joblib
+gradio
+
+#Visualization
+matplotlib
+seaborn
+
+#Machine Learning
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+
+#Environment (optional)
+python-dotenv

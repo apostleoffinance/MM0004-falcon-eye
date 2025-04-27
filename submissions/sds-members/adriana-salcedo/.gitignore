@@ -1,0 +1,46 @@
+# ------------------------------
+# 🧠 Python & Umgebung
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ------------------------------
+# 📓 Jupyter
+# ------------------------------
+**/.ipynb_checkpoints/
+
+# ------------------------------
+# 🔐 Umgebung & Konfiguration
+# ------------------------------
+.env
+.venv/
+env/
+venv/
+
+# ------------------------------
+# 💾 Daten (optional anpassbar)
+# ------------------------------
+# Falls du Daten nicht mit hochladen willst:
+data/*.csv
+
+
+
+# ------------------------------
+# 🧪 Temporäre / Editor-Dateien
+# ------------------------------
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# 🖥️ IDEs & Editoren
+# ------------------------------
+.vscode/
+.idea/
+*.code-workspace
